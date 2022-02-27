@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+body{
+    background-color: cadetblue;
+}
+h1{
+    font-family: 'Knewave';
+    font-size: 50px;
+    color: rgb(18, 73, 55);
+    text-align:center;
+}
+.container{
+    text-align: center;
+}
+.dice{
+    display: inline-block;
+}
+p{
+    color: rgb(18, 73, 55);
+    font-size: 20px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+}
